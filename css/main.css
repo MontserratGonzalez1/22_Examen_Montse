@@ -17,7 +17,7 @@ li {
 }
  	
 .foto {
-	width:70%;
+	width:80%;
 	height: 60%;
 }
 
@@ -52,7 +52,43 @@ hr {
 	border-radius: 20%;
 }
 
+.bo-rosa {
+	background-color: pink;
+	width: 70px;
+	height: 20px;
+	color: white;
+	font-size: 13px;
+	padding-left: 3%;
+	display: inline;
+	float: right;
+	position: relative;
+	bottom: 40px;
+	right: 40px;
+}
+
 .pie {
 	background-color: gray;
 	
+}
+
+.gris {
+	color: #34495E;
+}
+
+.tel {
+	color: purple;
+	margin-top: 20px;
+}
+
+
+.bo-news {
+	background-color: black;
+	width: 180px;
+	height: 55px;
+	color: white;
+	font-size: 15px;
+	padding-top: 17px;
+	padding-left: 50%;
+	margin-top: 8%;
+	margin-bottom: 7%;
 }

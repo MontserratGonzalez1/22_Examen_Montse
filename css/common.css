@@ -26,11 +26,33 @@ h4 {
 	margin-left: 40%;
 }
 
+	/*FOTOS*/
+.m-lfoto {
+	margin-left: 3%;
+}
+
+.text-foto {
+	font-size: 14px;
+}
+
+
 a {
 	color: pink;
+	text-decoration: none;
 }
 
 .m-b {
 	margin-bottom: 80px;
 }
 
+	/*FOOTER */
+
+.pie-text {
+	font-size: 12px;
+}
+
+.tit {
+	font-size: 14px; 
+	color: white;
+	margin-bottom: 25px;
+}
