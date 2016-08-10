@@ -1,11 +1,20 @@
-body {
-	background-color: #888;
-}
+
 
 .cabeza {
 	background-color: gray;
 	height: 100px;
 }
+
+.the {
+	font-family: Roboto;
+	font-size: 4em;
+	margin-left: 15%;
+	color: white;
+	margin-top: 10px;
+}
+
+
+
 
 ul {
 	margin-top: 40px;
@@ -15,10 +24,12 @@ li {
 	display: inline;
 	margin-left: 20px;
 }
- 	
+ 	/*FOTO HEADER */
 .foto {
-	width:80%;
-	height: 60%;
+	width:50%;
+	height: 50%;
+	float: left;
+	margin-right: 20px;
 }
 
 .read {
@@ -27,14 +38,25 @@ li {
 	height: 30px;
 	color: white;
 	font-size: 14px;
-	padding-top: 7px;
-	padding-left: 7px;
-	margin-top: 30px;
+	margin-top: 20px;
+	position: relative;
+	left: 52%;
+	border-radius: 20%;
 }
+
+	
+	
+/*FOTOS PEQUEÑAS*/
+.foto2 {
+	width: 80%;
+	height: 50%;
+
+}
+
 
 hr {
 	border-color: gray;
-	border-style: outset;
+	border-style: dashed;
 	margin-top:40px;
 	margin-bottom: 40px;
 }
@@ -45,7 +67,7 @@ hr {
 	height: 35px;
 	color: white;
 	font-size: 16px;
-	padding-top: 10px;
+	padding-top: 9px;
 	padding-left: 16px;
 	margin-top: 8%;
 	margin-bottom: 7%;
@@ -64,6 +86,10 @@ hr {
 	position: relative;
 	bottom: 40px;
 	right: 40px;
+}
+
+.latest {
+	font-family: ;
 }
 
 .pie {
@@ -92,3 +118,5 @@ hr {
 	margin-top: 8%;
 	margin-bottom: 7%;
 }
+
+	
